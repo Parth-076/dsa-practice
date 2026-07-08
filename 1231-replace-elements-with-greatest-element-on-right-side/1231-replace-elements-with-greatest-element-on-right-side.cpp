@@ -3,14 +3,14 @@ public:
     vector<int> replaceElements(vector<int>& arr) {
         
         int n = arr.size();
-        vector<int> ans(n);
         int rightmax = -1;
+        int valu;
 
         for(int i = n-1; i >= 0; i--) {
-            
-            ans[i] = rightmax;
-            rightmax = max(rightmax, arr[i]);
+            valu = arr[i];
+            arr[i] = rightmax;
+            rightmax = max(rightmax, valu);
         }
-        return ans;
+        return arr;
     }
 };

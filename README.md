@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Parth-076/dsa-practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Parth-076/dsa-practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Parth-076/dsa-practice/tree/master/0242-valid-anagram) |
 ## String
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Parth-076/dsa-practice/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Parth-076/dsa-practice/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/Parth-076/dsa-practice/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/Parth-076/dsa-practice/tree/master/0485-max-consecutive-ones) |

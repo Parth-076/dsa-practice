@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0058-length-of-last-word](https://github.com/Parth-076/dsa-practice/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Parth-076/dsa-practice/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Parth-076/dsa-practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Parth-076/dsa-practice/tree/master/0392-is-subsequence) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Parth-076/dsa-practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Parth-076/dsa-practice/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Parth-076/dsa-practice/tree/master/0027-remove-element) |
+| [0344-reverse-string](https://github.com/Parth-076/dsa-practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Parth-076/dsa-practice/tree/master/0392-is-subsequence) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Parth-076/dsa-practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Parth-076/dsa-practice/tree/master/2572-append-characters-to-string-to-make-subsequence) |

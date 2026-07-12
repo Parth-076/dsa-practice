@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/Parth-076/dsa-practice/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Parth-076/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Parth-076/dsa-practice/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/Parth-076/dsa-practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Parth-076/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Parth-076/dsa-practice/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2727-number-of-senior-citizens](https://github.com/Parth-076/dsa-practice/tree/master/2727-number-of-senior-citizens) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/Parth-076/dsa-practice/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Parth-076/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Parth-076/dsa-practice/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Parth-076/dsa-practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Parth-076/dsa-practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Parth-076/dsa-practice/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Parth-076/dsa-practice/tree/master/0680-valid-palindrome-ii) |

@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/Parth-076/dsa-practice/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Parth-076/dsa-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Parth-076/dsa-practice/tree/master/0680-valid-palindrome-ii) |
+| [0874-backspace-string-compare](https://github.com/Parth-076/dsa-practice/tree/master/0874-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/Parth-076/dsa-practice/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Parth-076/dsa-practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Parth-076/dsa-practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/Parth-076/dsa-practice/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Parth-076/dsa-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Parth-076/dsa-practice/tree/master/0680-valid-palindrome-ii) |
+| [0874-backspace-string-compare](https://github.com/Parth-076/dsa-practice/tree/master/0874-backspace-string-compare) |
 | [0941-sort-array-by-parity](https://github.com/Parth-076/dsa-practice/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Parth-076/dsa-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Parth-076/dsa-practice/tree/master/1894-merge-strings-alternately) |
@@ -92,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parth-076/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Stack
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/Parth-076/dsa-practice/tree/master/0874-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/Parth-076/dsa-practice/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->

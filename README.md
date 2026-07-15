@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Parth-076/dsa-practice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/Parth-076/dsa-practice/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Parth-076/dsa-practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/Parth-076/dsa-practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Parth-076/dsa-practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Parth-076/dsa-practice/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2727-number-of-senior-citizens](https://github.com/Parth-076/dsa-practice/tree/master/2727-number-of-senior-citizens) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1510-find-lucky-integer-in-an-array](https://github.com/Parth-076/dsa-practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Parth-076/dsa-practice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Parth-076/dsa-practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/Parth-076/dsa-practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Parth-076/dsa-practice/tree/master/2551-apply-operations-to-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Parth-076/dsa-practice/tree/master/2727-number-of-senior-citizens) |
 ## Two Pointers
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1019-squares-of-a-sorted-array](https://github.com/Parth-076/dsa-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Parth-076/dsa-practice/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Parth-076/dsa-practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/Parth-076/dsa-practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Parth-076/dsa-practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2551-apply-operations-to-an-array](https://github.com/Parth-076/dsa-practice/tree/master/2551-apply-operations-to-an-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Parth-076/dsa-practice/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -110,5 +113,6 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Parth-076/dsa-practice/tree/master/0874-backspace-string-compare) |
+| [2232-adding-spaces-to-a-string](https://github.com/Parth-076/dsa-practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Parth-076/dsa-practice/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->

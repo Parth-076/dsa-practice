@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Parth-076/dsa-practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Parth-076/dsa-practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Parth-076/dsa-practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Parth-076/dsa-practice/tree/master/0268-missing-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Parth-076/dsa-practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Parth-076/dsa-practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/Parth-076/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Parth-076/dsa-practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Parth-076/dsa-practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Parth-076/dsa-practice/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Parth-076/dsa-practice/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/Parth-076/dsa-practice/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Parth-076/dsa-practice/tree/master/1019-squares-of-a-sorted-array) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/Parth-076/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parth-076/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Parth-076/dsa-practice/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Parth-076/dsa-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Parth-076/dsa-practice/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Parth-076/dsa-practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Parth-076/dsa-practice/tree/master/0485-max-consecutive-ones) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parth-076/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Parth-076/dsa-practice/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -122,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0874-backspace-string-compare](https://github.com/Parth-076/dsa-practice/tree/master/0874-backspace-string-compare) |
 | [2232-adding-spaces-to-a-string](https://github.com/Parth-076/dsa-practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Parth-076/dsa-practice/tree/master/2551-apply-operations-to-an-array) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Parth-076/dsa-practice/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Parth-076/dsa-practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

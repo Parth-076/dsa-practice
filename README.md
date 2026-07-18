@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/Parth-076/dsa-practice/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/Parth-076/dsa-practice/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Parth-076/dsa-practice/tree/master/1019-squares-of-a-sorted-array) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Parth-076/dsa-practice/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 ## Array
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Parth-076/dsa-practice/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Parth-076/dsa-practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Parth-076/dsa-practice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Parth-076/dsa-practice/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Parth-076/dsa-practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Parth-076/dsa-practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Parth-076/dsa-practice/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/Parth-076/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Parth-076/dsa-practice/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Parth-076/dsa-practice/tree/master/0680-valid-palindrome-ii) |
+| [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Parth-076/dsa-practice/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Parth-076/dsa-practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Parth-076/dsa-practice/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Divide and Conquer

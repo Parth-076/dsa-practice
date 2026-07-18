@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Parth-076/dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Parth-076/dsa-practice/tree/master/0268-missing-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Parth-076/dsa-practice/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Parth-076/dsa-practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Parth-076/dsa-practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0941-sort-array-by-parity](https://github.com/Parth-076/dsa-practice/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Parth-076/dsa-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Parth-076/dsa-practice/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Parth-076/dsa-practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Array
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2232-adding-spaces-to-a-string](https://github.com/Parth-076/dsa-practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Parth-076/dsa-practice/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Parth-076/dsa-practice/tree/master/2551-apply-operations-to-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Parth-076/dsa-practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Parth-076/dsa-practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/Parth-076/dsa-practice/tree/master/2727-number-of-senior-citizens) |
 ## Two Pointers
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Parth-076/dsa-practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2551-apply-operations-to-an-array](https://github.com/Parth-076/dsa-practice/tree/master/2551-apply-operations-to-an-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Parth-076/dsa-practice/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Parth-076/dsa-practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Parth-076/dsa-practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Dynamic Programming
 |  |

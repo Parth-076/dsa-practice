@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/Parth-076/dsa-practice/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Parth-076/dsa-practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Parth-076/dsa-practice/tree/master/0485-max-consecutive-ones) |
+| [0605-can-place-flowers](https://github.com/Parth-076/dsa-practice/tree/master/0605-can-place-flowers) |
 | [0941-sort-array-by-parity](https://github.com/Parth-076/dsa-practice/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Parth-076/dsa-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Parth-076/dsa-practice/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Parth-076/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Parth-076/dsa-practice/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/Parth-076/dsa-practice/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Parth-076/dsa-practice/tree/master/0680-valid-palindrome-ii) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Parth-076/dsa-practice/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Parth-076/dsa-practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |

@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Parth-076/dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Parth-076/dsa-practice/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Parth-076/dsa-practice/tree/master/0455-assign-cookies) |
+| [0917-boats-to-save-people](https://github.com/Parth-076/dsa-practice/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Parth-076/dsa-practice/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Parth-076/dsa-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Parth-076/dsa-practice/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/Parth-076/dsa-practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Parth-076/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Parth-076/dsa-practice/tree/master/0605-can-place-flowers) |
+| [0917-boats-to-save-people](https://github.com/Parth-076/dsa-practice/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Parth-076/dsa-practice/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Parth-076/dsa-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Parth-076/dsa-practice/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0557-reverse-words-in-a-string-iii](https://github.com/Parth-076/dsa-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Parth-076/dsa-practice/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/Parth-076/dsa-practice/tree/master/0874-backspace-string-compare) |
+| [0917-boats-to-save-people](https://github.com/Parth-076/dsa-practice/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Parth-076/dsa-practice/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Parth-076/dsa-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Parth-076/dsa-practice/tree/master/1894-merge-strings-alternately) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/Parth-076/dsa-practice/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Parth-076/dsa-practice/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Parth-076/dsa-practice/tree/master/0680-valid-palindrome-ii) |
+| [0917-boats-to-save-people](https://github.com/Parth-076/dsa-practice/tree/master/0917-boats-to-save-people) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Parth-076/dsa-practice/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Parth-076/dsa-practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Parth-076/dsa-practice/tree/master/2572-append-characters-to-string-to-make-subsequence) |

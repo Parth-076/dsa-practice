@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1019-squares-of-a-sorted-array](https://github.com/Parth-076/dsa-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Parth-076/dsa-practice/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Parth-076/dsa-practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/Parth-076/dsa-practice/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 ## Array
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2551-apply-operations-to-an-array](https://github.com/Parth-076/dsa-practice/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Parth-076/dsa-practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Parth-076/dsa-practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/Parth-076/dsa-practice/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2727-number-of-senior-citizens](https://github.com/Parth-076/dsa-practice/tree/master/2727-number-of-senior-citizens) |
 ## Two Pointers
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Parth-076/dsa-practice/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Parth-076/dsa-practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Parth-076/dsa-practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/Parth-076/dsa-practice/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Parth-076/dsa-practice/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Parth-076/dsa-practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Parth-076/dsa-practice/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/Parth-076/dsa-practice/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -139,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parth-076/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Parth-076/dsa-practice/tree/master/0268-missing-number) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/Parth-076/dsa-practice/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 ## Stack
 |  |
 | ------- |

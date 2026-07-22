@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0680-valid-palindrome-ii](https://github.com/Parth-076/dsa-practice/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/Parth-076/dsa-practice/tree/master/0874-backspace-string-compare) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Parth-076/dsa-practice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Parth-076/dsa-practice/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1894-merge-strings-alternately](https://github.com/Parth-076/dsa-practice/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Parth-076/dsa-practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Parth-076/dsa-practice/tree/master/2232-adding-spaces-to-a-string) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0917-boats-to-save-people](https://github.com/Parth-076/dsa-practice/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Parth-076/dsa-practice/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Parth-076/dsa-practice/tree/master/1019-squares-of-a-sorted-array) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Parth-076/dsa-practice/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1894-merge-strings-alternately](https://github.com/Parth-076/dsa-practice/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Parth-076/dsa-practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Parth-076/dsa-practice/tree/master/2232-adding-spaces-to-a-string) |

@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Parth-076/dsa-practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Parth-076/dsa-practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Parth-076/dsa-practice/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Parth-076/dsa-practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/Parth-076/dsa-practice/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Parth-076/dsa-practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Parth-076/dsa-practice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Parth-076/dsa-practice/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Parth-076/dsa-practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Parth-076/dsa-practice/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Parth-076/dsa-practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Parth-076/dsa-practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2551-apply-operations-to-an-array](https://github.com/Parth-076/dsa-practice/tree/master/2551-apply-operations-to-an-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Parth-076/dsa-practice/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0874-backspace-string-compare](https://github.com/Parth-076/dsa-practice/tree/master/0874-backspace-string-compare) |
 | [2232-adding-spaces-to-a-string](https://github.com/Parth-076/dsa-practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Parth-076/dsa-practice/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Parth-076/dsa-practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/Parth-076/dsa-practice/tree/master/2551-apply-operations-to-an-array) |
 | [4157-reverse-words-with-same-vowel-count](https://github.com/Parth-076/dsa-practice/tree/master/4157-reverse-words-with-same-vowel-count) |
 ## Math

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Parth-076/dsa-practice/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Parth-076/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Parth-076/dsa-practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Parth-076/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Parth-076/dsa-practice/tree/master/0151-reverse-words-in-a-string) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Parth-076/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Parth-076/dsa-practice/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Parth-076/dsa-practice/tree/master/0874-backspace-string-compare) |
 ## Simulation

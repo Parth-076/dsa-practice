@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Parth-076/dsa-practice/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/Parth-076/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Parth-076/dsa-practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Parth-076/dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Parth-076/dsa-practice/tree/master/0268-missing-number) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Parth-076/dsa-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Parth-076/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Parth-076/dsa-practice/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Parth-076/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Parth-076/dsa-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parth-076/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Parth-076/dsa-practice/tree/master/0189-rotate-array) |
@@ -197,10 +199,15 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Parth-076/dsa-practice/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/Parth-076/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Parth-076/dsa-practice/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Parth-076/dsa-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Parth-076/dsa-practice/tree/master/0206-reverse-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Parth-076/dsa-practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->

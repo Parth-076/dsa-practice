@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/Parth-076/dsa-practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Parth-076/dsa-practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Parth-076/dsa-practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Parth-076/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Parth-076/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Parth-076/dsa-practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Parth-076/dsa-practice/tree/master/0485-max-consecutive-ones) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/Parth-076/dsa-practice/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Parth-076/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Parth-076/dsa-practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Parth-076/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Parth-076/dsa-practice/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Parth-076/dsa-practice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Parth-076/dsa-practice/tree/master/0443-string-compression) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parth-076/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Parth-076/dsa-practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Parth-076/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Parth-076/dsa-practice/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 ## Stack
 |  |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Parth-076/dsa-practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Parth-076/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 ## Counting Sort
 |  |
 | ------- |
@@ -231,4 +235,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Parth-076/dsa-practice/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/Parth-076/dsa-practice/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Parth-076/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

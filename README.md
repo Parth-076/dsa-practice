@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/Parth-076/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Parth-076/dsa-practice/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Parth-076/dsa-practice/tree/master/0682-baseball-game) |
+| [0792-binary-search](https://github.com/Parth-076/dsa-practice/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/Parth-076/dsa-practice/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Parth-076/dsa-practice/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Parth-076/dsa-practice/tree/master/1019-squares-of-a-sorted-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parth-076/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Parth-076/dsa-practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Parth-076/dsa-practice/tree/master/0287-find-the-duplicate-number) |
+| [0792-binary-search](https://github.com/Parth-076/dsa-practice/tree/master/0792-binary-search) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Parth-076/dsa-practice/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 ## Stack
 |  |

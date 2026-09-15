@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/Parth-076/dsa-practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Parth-076/dsa-practice/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Parth-076/dsa-practice/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Parth-076/dsa-practice/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/Parth-076/dsa-practice/tree/master/0792-binary-search) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Parth-076/dsa-practice/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 ## Stack
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/Parth-076/dsa-practice/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Parth-076/dsa-practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Parth-076/dsa-practice/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/Parth-076/dsa-practice/tree/master/0441-arranging-coins) |
 ## Bit Manipulation
 |  |
 | ------- |

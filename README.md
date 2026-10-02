@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Parth-076/dsa-practice/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Parth-076/dsa-practice/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parth-076/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Parth-076/dsa-practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Parth-076/dsa-practice/tree/master/0287-find-the-duplicate-number) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Parth-076/dsa-practice/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/Parth-076/dsa-practice/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Parth-076/dsa-practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Parth-076/dsa-practice/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Parth-076/dsa-practice/tree/master/0367-valid-perfect-square) |
@@ -258,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Parth-076/dsa-practice/tree/master/0374-guess-number-higher-or-lower) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Parth-076/dsa-practice/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
